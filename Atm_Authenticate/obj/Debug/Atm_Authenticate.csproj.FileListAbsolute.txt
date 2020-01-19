@@ -1,0 +1,12 @@
+C:\Users\kevin\source\repos\Atm_Authenticate\Atm_Authenticate\bin\Debug\Atm_Authenticate.exe.config
+C:\Users\kevin\source\repos\Atm_Authenticate\Atm_Authenticate\bin\Debug\Atm_Authenticate.exe
+C:\Users\kevin\source\repos\Atm_Authenticate\Atm_Authenticate\bin\Debug\Atm_Authenticate.pdb
+C:\Users\kevin\source\repos\Atm_Authenticate\Atm_Authenticate\obj\Debug\Atm_Authenticate.csprojAssemblyReference.cache
+C:\Users\kevin\source\repos\Atm_Authenticate\Atm_Authenticate\obj\Debug\Atm_Authenticate.HomePage.resources
+C:\Users\kevin\source\repos\Atm_Authenticate\Atm_Authenticate\obj\Debug\Atm_Authenticate.Form2.resources
+C:\Users\kevin\source\repos\Atm_Authenticate\Atm_Authenticate\obj\Debug\Atm_Authenticate.Properties.Resources.resources
+C:\Users\kevin\source\repos\Atm_Authenticate\Atm_Authenticate\obj\Debug\Atm_Authenticate.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\Atm_Authenticate\Atm_Authenticate\obj\Debug\Atm_Authenticate.exe
+C:\Users\kevin\source\repos\Atm_Authenticate\Atm_Authenticate\obj\Debug\Atm_Authenticate.pdb
+C:\Users\kevin\source\repos\Atm_Authenticate\Atm_Authenticate\obj\Debug\Atm_Authenticate.Form3.resources
+C:\Users\kevin\source\repos\Atm_Authenticate\Atm_Authenticate\obj\Debug\Atm_Authenticate.Form4.resources
